@@ -58,12 +58,6 @@ text-shadow: 0 0 9px #acd1db;
 text-transform: uppercase;
 }
 
-/* #carouselExampleControls {
-  display: flex;
-  
-} */
-
-
 .photo-container {
   display: flex;
   flex-direction: row;
@@ -79,6 +73,11 @@ border-radius: 5px;
 .card-text{
 text-align: center;
 }
+
+.imagenes{
+  width: 100%;
+  height: 100%;
+} 
 
 
 

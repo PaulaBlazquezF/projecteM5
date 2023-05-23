@@ -1,8 +1,3 @@
-    // public class Root
-    // {
-    //     public List<string> data { get; set; }
-    // }
-
     public class Root
     {
         public string _id { get; set; }
