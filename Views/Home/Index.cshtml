@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+@model List<Root2>
+
+<div class="text-center">
+    <h1 class="titulo">PHOTOS TUMBLR</h1>
+</div>
+
+<div id="photo-container">
+    <div class="row">
+        @foreach (var item in @Model)
+        {
+            <div class="col-md-5">
+                <div class="photo-card">
+                    <img class="card-img-top" src= "@item.url" alt="Card image cap">
+                    <div class="card-body">
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+ </div>
+

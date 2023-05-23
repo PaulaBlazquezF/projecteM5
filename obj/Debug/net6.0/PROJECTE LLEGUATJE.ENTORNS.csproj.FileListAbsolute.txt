@@ -1,0 +1,56 @@
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\bin\Debug\net6.0\appsettings.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.staticwebassets.runtime.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.exe
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.deps.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.runtimeconfig.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.dll
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.pdb
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.AssemblyInfoInputs.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.AssemblyInfo.cs
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.RazorAssemblyInfo.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.RazorAssemblyInfo.cs
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\scopedcss\bundle\PROJECTE LLEGUATJE.ENTORNS.styles.css
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\scopedcss\projectbundle\PROJECTE LLEGUATJE.ENTORNS.bundle.scp.css
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.dll
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\refint\PROJECTE LLEGUATJE.ENTORNS.dll
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.pdb
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.genruntimeconfig.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\ref\PROJECTE LLEGUATJE.ENTORNS.dll
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.csproj.CopyComplete
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\bin\Debug\net6.0\appsettings.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.staticwebassets.runtime.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.exe
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.deps.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.runtimeconfig.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.dll
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\bin\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.pdb
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.AssemblyInfoInputs.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.AssemblyInfo.cs
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.RazorAssemblyInfo.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.RazorAssemblyInfo.cs
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\scopedcss\bundle\PROJECTE LLEGUATJE.ENTORNS.styles.css
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\scopedcss\projectbundle\PROJECTE LLEGUATJE.ENTORNS.bundle.scp.css
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.csproj.CopyComplete
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.dll
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\refint\PROJECTE LLEGUATJE.ENTORNS.dll
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.pdb
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\PROJECTE LLEGUATJE.ENTORNS.genruntimeconfig.cache
+C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS_GIT\projecteM5\obj\Debug\net6.0\ref\PROJECTE LLEGUATJE.ENTORNS.dll

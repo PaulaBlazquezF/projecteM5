@@ -1,0 +1,32 @@
+﻿@model List<Root>
+
+
+<div class="text-center">
+    <h1 class="titulo">THE FACTS CAT</h1>
+</div>
+
+<div class= "opacity-95" class = "cards">
+        @foreach (var item in @Model)
+        {
+            <div  class="card-body">
+                <h5 class="card-title"></h5>
+                <h6 class="card-subtitle mb-2 text-muted"></h6>
+                <p class="card-text"> @item.text</p>
+                <p class= "indetificador">@item._id</p>
+            </div>       
+        }
+ </div>
+
+
+<div class="container">
+  <div class="row">
+
+    <div class="col">
+      
+    </div> 
+
+    <div class="col">
+      
+    </div>
+  </div>
+</div>

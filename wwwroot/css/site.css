@@ -1,0 +1,84 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  background-image: url("C:\Users\paula\OneDrive\Escritorio\ETPX\PROJECTE LLEGUATJE.ENTORNS\wwwroot\css\descarga.jpg");
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url("../img/fondo.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;
+  font-family: sans-serif;
+  
+}
+
+.indetificador {
+  font-size: x-small;
+  text-align: right;
+}
+
+.card-body{
+  background-color: rgb(171, 209, 215);
+  margin-bottom: 2%;
+  margin-top: 2%;
+  border-radius: 10px;
+  border-color: aqua;
+  opacity: 70%;
+
+}
+
+.titulo{
+text-align: center; 
+font-family: sans-serif Black; 
+font-weight: bold; 
+font-size: 50px; 
+color: #7bbbc5; 
+margin-bottom: 5%;
+text-shadow: 0 1px 0 #ddd, 0 2px 0 #ccc, 0 3px 0 #bbb, 0 4px 0 #aaa, 0 5px 0 #acacac, 0 6px 1px rgba(0,0,0,0.1), 0 0 5px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.3), 0 3px 5px rgba(0,0,0,0.2), 0 5px 10px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.2), 0 20px 20px rgba(0,0,0,0.15);
+}
+
+h6{
+text-align: left; 
+font-family: sans-serif Black; 
+font-weight: bold; 
+font-size: 20px; 
+color: rgba(255, 255, 255, 0); 
+text-shadow: 0 0 9px #acd1db; 
+text-transform: uppercase;
+}
+
+/* #carouselExampleControls {
+  display: flex;
+  
+} */
+
+
+.photo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+.photo-card{
+position: relative;
+border-radius: 5px;
+}
+.card-text{
+text-align: center;
+}
+
+
+
